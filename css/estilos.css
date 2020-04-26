@@ -35,7 +35,7 @@ body
 {
     width: 70%;
     padding: 0;
-    text-align: justify;
+    text-align: center;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
@@ -47,5 +47,6 @@ body
 
 #post
 {
+    background: whitesmoke;
     padding: 1em;
 }
